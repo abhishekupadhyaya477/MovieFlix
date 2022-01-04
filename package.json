@@ -1,5 +1,6 @@
 {
   "name": "netflix_clone",
+  "homepage": "http://abhishekupadhyaya477.github.io/MovieFlix",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
